@@ -21,3 +21,4 @@ how to explore relationship between two sets of data: [XY_Exporter](https://gith
 
 how to visualizing data in 3d: [visualizing_3d](https://github.com/henrywang95/Data-sculpture-Workshop-PCD2020/tree/master/visualizing_3d)
 you need to download Peasycam library: http://mrfeinberg.com/peasycam/
+you need to download nervoussystem OBJExport library: https://n-e-r-v-o-u-s.com/tools/obj/
