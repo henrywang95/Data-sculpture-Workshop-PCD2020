@@ -29,7 +29,7 @@ void draw() {
   for (TableRow row : table.rows()) {
     int id = row.getInt("id");
     int size = row.getInt("Walk");
-    ellipse(80*id, height/2, size, size);
+    ellipse(80*id, height/2, size, size); //drawing the data set as the ellipse depends on the size of the data
   }
   
     //-- done recording to PDF, set flag to false and flash white to indicate that we have recorded

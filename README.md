@@ -3,9 +3,13 @@
 3D Data visualization workshop for PCD 2020 [Here are the slides](https://docs.google.com/presentation/d/1rI0s8V77Z5p4Fdmn1ZCqGSkGORa2hp6_js-H1kPYTaM/edit?usp=sharing) 
 
 #### Download processing [here](https://processing.org/download/).
+
 You may also want to download
+
 Adobe Illustrator: https://www.adobe.com/products/illustrator/free-trial-download.html
+
 Fusion 360: https://www.autodesk.com/products/fusion-360/students-teachers-educators
+
 Ultimaker Cura: https://ultimaker.com/software/ultimaker-cura
 
 #### Processing code examples 

@@ -141,7 +141,7 @@ void drawAllData() {
     
    
     //-- draw data point here
-    drawDatum(x,y, s);
+    drawDatum(x,y, s*3);
   }
 }
 
